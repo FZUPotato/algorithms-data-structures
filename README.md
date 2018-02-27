@@ -1,2 +1,2 @@
-# algorithms-data-structures-
-Classic implementation of some classical algorithms and data structures.
+# algorithms and data-structures
+a collection of some classical algorithms and data structures.
